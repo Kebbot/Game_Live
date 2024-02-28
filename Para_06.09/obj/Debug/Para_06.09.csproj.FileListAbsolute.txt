@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\bin\Debug\Para_06.09.exe.config
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\bin\Debug\Para_06.09.exe
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\bin\Debug\Para_06.09.pdb
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06.09.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06.09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06._09.Form1.resources
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06._09.Properties.Resources.resources
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06.09.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06.09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06.09.exe
+C:\Users\Admin\source\repos\Para_06.09\Para_06.09\obj\Debug\Para_06.09.pdb
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\bin\Debug\Para_06.09.exe.config
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\bin\Debug\Para_06.09.exe
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\bin\Debug\Para_06.09.pdb
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\obj\Debug\Para_06.09.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\obj\Debug\Para_06._09.Form1.resources
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\obj\Debug\Para_06._09.Properties.Resources.resources
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\obj\Debug\Para_06.09.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\obj\Debug\Para_06.09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\obj\Debug\Para_06.09.exe
+C:\Users\Admin\Desktop\Игра жизнь\Para_06.09\Para_06.09\obj\Debug\Para_06.09.pdb
